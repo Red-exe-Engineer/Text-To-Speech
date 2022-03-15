@@ -1,0 +1,11 @@
+Created by Wallee with help from Bigjango (slash) FG6 and LEHAtupointow
+This is a test file to import into the program, I hope you are not the one reading it.
+
+You can also import your own text documents and have the program read them.
+
+It can handle a lot but may skip certain characters like slashes.
+
+Some acronyms may not work unless they are lower case.
+
+For more info on how to use this program click the about button or run with the following command.
+Python 3 main (dot) P Y, (dash) help.
